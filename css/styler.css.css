@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&display=swap');
+header{
+	padding: 20px;
+    box-shadow: 0 0.1rem 0.5rem #6495ED;
+    width: 96%;
+    background: var(--white); 
+    transition: all 0.5s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+body{
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Belanosima;
+	color: #3D3D3D;
+}
+
+
+.text{
+	
+	font-family: Belanosima;
+
+}
+
+h1{
+	padding: 10px;
+	
+	text-align: center;
+}
+
+
+.titulo{
+text-align: center;
+padding: 10px;
+font-size: 32;
+background-color:#E1EDF2 ;
+}	
+.imagem-principal{
+ margin: 0 auto;
+ 	
+}
+
+p{
+	text-align: center;
+	line-height: 15px;
+
+}
+
+h2{
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+
+
+figcaption{
+	margin-top: 10px;
+	
+}
+
+
+
+
+figure{
+	margin: 30px;
+	padding: 15px;
+	border:1px solid lightgrey;
+	background-color: whitesmoke;
+	text-align: center;
+}
+
+
+a{
+	text-decoration: none;
+	color: red;
+	margin: 3px;
+}
+
+
+.matiz-musicdot{
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+.família-tupfeln{
+	width: 275px;
+	float: right;
+}
+
+figure img{
+	width: 100%;
+}
+
+.contato__subtitulo{
+	display: inline;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contato__info{
+	margin: 16px 0 24px;
+	padding-left: 32px;
+	display: flex ;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.contato__info-titulo,.contato__info-descricao{
+	display: inline;
+	text-align: center;
+}
+.contato__info-descricao{
+	margin-left: 1px;
+}
+small{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

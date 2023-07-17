@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&display=swap');
+.conteudo-principal{
+	background-color:white;
+	font-family: Belanosima;
+
+	color: red;
+}
+.imagem-principal{
+	display: flex;
+	flex: box;
+
+
+}
+.titulo{
+	color: blue;
+}
+.subtitulo{
+	color: black;
+}
+.paragrafos{
+	color: black;
+}
+
